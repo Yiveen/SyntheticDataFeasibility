@@ -1,0 +1,6 @@
+[submodule "OODGen/sam2"]
+	path = OODGen/sam2
+	url = https://github.com/facebookresearch/segment-anything-2.git
+[submodule "VariReal/third_party/sam2"]
+	path = VariReal/third_party/sam2
+	url = https://github.com/facebookresearch/sam2.git

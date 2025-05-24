@@ -1,0 +1,14 @@
+wandb_key: enter_your_wandb_key
+clip_download_dir: your/path/to/clip/download/path
+synth_train_data_dir: your/path/to/.../VariReal_Gen/output  # path to our synthetic data generation
+
+real_train_data_dir:
+    cars: /dss/dssmcmlfs01/pn39yu/pn39yu-dss-0000/projects/yiwen.liu/OOD_Data/data # the path to the real data download location, should be automatically generated after running VariReal, root of the dataset
+
+real_test_data_dir:
+    cars: your/path/to/.../OOD_Data/data
+
+real_train_fewshot_data_dir:  # the path to the sorted real data according to classes, should be automatically generated after running VariReal
+    cars: your/path/to/.../OOD_Data/real_train/cars
+
+

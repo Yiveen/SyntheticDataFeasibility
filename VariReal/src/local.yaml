@@ -1,0 +1,2 @@
+cache_dir: 'your/path/to/.../hf_cache'
+sam2_checkpoint_path: 'your/path/to/.../OODData/VariReal/third_party/sam2/checkpoints/sam2.1_hiera_large.pt'
